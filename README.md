@@ -1,199 +1,147 @@
-<div align="center">
+<!--
+PROFILE README SETUP
+1. Put this README.md in the root of the public repository named exactly:
+   thefavmaverick-coder
+2. Upload your banner image as profile-banner.png into the same repository root.
+3. Commit changes. GitHub displays this README on your profile automatically.
+-->
 
-<img src="profile-banner .png" alt="The Fav' Maverick — Data Analytics" width="100%"/>
-
-# THE FAV' MAVERICK
-
-### DATA ANALYTICS · BUSINESS INSIGHTS · CONTINUOUS LEARNING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=A7F542&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+useful+insights;Excel+%7C+SQL+%7C+Power+BI;Learning+by+building+real+projects" alt="Animated introduction"/>
-
-<p>
-  <a href="https://ambi-rajan-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-A7F542?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ambi-rajan005"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=A7F542" alt="LinkedIn"/></a>
-  <a href="https://github.com/thefavmaverick-coder"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=A7F542" alt="GitHub"/></a>
+<p align="center">
+  <img src="profile-banner.png" alt="The Fav' Maverick banner" width="100%" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=thefavmaverick-coder&style=flat-square&color=A7F542&label=PROFILE+VIEWS)
+<p align="center">
+  <a href="https://ambi-rajan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ambi-rajan005/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/thefavmaverick-coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:thefavmaverick@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A7F542?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
+</p>
 
-</div>
+<h1 align="center">Hi, I'm Ambi 👋</h1>
+<h3 align="center">Biotechnology Graduate · Aspiring Data Analyst · Web Project Builder</h3>
+
+<p align="center">
+  I turn data into useful insights and build practical digital projects using analytics and web technologies.
+</p>
 
 ---
 
-## `01 / ABOUT`
+## 👨‍💻 About Me
 
-Hi! I'm **Ambi**, a Biotechnology graduate building a career in **Data Analytics**. I enjoy exploring datasets, finding patterns, and presenting findings through clear reports and dashboards.
+- 🎓 B.Tech Biotechnology graduate (2026).
+- 📊 Building practical skills in data analysis, dashboards, SQL, and reporting.
+- 🧩 Creating portfolio projects that combine problem-solving, data, and technology.
+- 🌱 Currently strengthening SQL, Power BI, Tableau, Python, and R through hands-on practice.
+- 🌐 Portfolio: [ambi-rajan-portfolio.vercel.app](https://ambi-rajan-portfolio.vercel.app/)
+- 📍 Based in Tamil Nadu, India; open to suitable entry-level opportunities.
 
-My approach is practical: learn a concept, apply it to a project, document the process, and improve from feedback. The projects here are practice and portfolio projects—not claims of professional client work.
+## 🧰 Skills & Tools
 
-- **Current focus:** SQL, Power BI, Excel analysis, and Python fundamentals
-- **Interested in:** Data cleaning, KPI tracking, business reporting, and data storytelling
-- **Learning style:** Hands-on projects, documentation, and consistent practice
-- **Goal:** Turn business questions into clear, evidence-based insights
+### Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
 
-## `02 / TOOLKIT`
+### Web Development & Workflow
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
-<div align="center">
+---
 
-**DATA & ANALYTICS**
-
-![Excel](https://img.shields.io/badge/Excel-161B22?style=for-the-badge&logo=microsoftexcel&logoColor=A7F542)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=A7F542)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=A7F542)
-![Power BI](https://img.shields.io/badge/Power%20BI-161B22?style=for-the-badge&logo=powerbi&logoColor=A7F542)
-![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=A7F542)
-![R](https://img.shields.io/badge/R-161B22?style=for-the-badge&logo=r&logoColor=A7F542)
-
-**DEVELOPMENT & WORKFLOW**
-
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=A7F542)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=A7F542)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=A7F542)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=A7F542)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=A7F542)
-![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=A7F542)
-
-</div>
-
-<details>
-<summary><b>How I approach an analysis</b></summary>
-
-1. Define the business question and success metric.
-2. Inspect the dataset and check data quality.
-3. Clean, transform, and validate the data.
-4. Analyse patterns using Excel, SQL, or another suitable tool.
-5. Build visuals and dashboards around the question.
-6. Summarise findings, limitations, and possible next steps.
-
-</details>
-
-## `03 / FEATURED PROJECTS`
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟡 Swiggy Food Sales Analysis
-**Tool:** Microsoft Excel
-
-An Excel dashboard project exploring food sales performance, time trends, food categories, and geographic patterns.
-
-- Sales and performance overview
-- Time-based trend analysis
-- Category and location comparisons
-
-[**↗ View repository**](https://github.com/thefavmaverick-coder/swiggy-food-sales-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 Sales & Orders Performance
-**Tool:** Microsoft Excel
-
-A sales analysis dashboard focused on understanding sales and order performance through KPIs and visual summaries.
-
-- Sales and order tracking
-- KPI-focused reporting
-- Visual performance summaries
-
-[**↗ View repository**](https://github.com/thefavmaverick-coder/Sales-Orders-Performance-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟡 Retail Sales Analysis
-**Tool:** PostgreSQL
-
-A SQL practice project for exploring retail transactions, customer behaviour, product categories, and sales patterns.
-
-- Query-based analysis
-- Category and customer exploration
-- Sales trends and business questions
-
-[**↗ View repository**](https://github.com/thefavmaverick-coder/retail-sales-analysis-sql)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 HR Employee Attrition Analysis
-**Tool:** Power BI
-
-An HR analytics dashboard exploring employee attrition across workforce segments, departments, job roles, age groups, and satisfaction levels.
-
-- Workforce and attrition KPIs
-- Department and job-role comparisons
-- Age-group and satisfaction analysis
-
-[**↗ View repository**](https://github.com/thefavmaverick-coder/hr-employee-attrition-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟡 Finance & Expense Analytics
-**Tool:** Web development
-
-A personal finance tracker project designed to help users record income and expenses and review financial activity.
-
-- Income and expense tracking
-- Budget and savings-oriented features
-- Visual summaries of financial activity
-
-[**↗ View repository**](https://github.com/thefavmaverick-coder/The-Fav-Maverick-Finance-Expense-Analytics)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 Personal Portfolio Website
-**Tool:** HTML · CSS · JavaScript
-
-A portfolio website presenting my background, skills, and projects. The site was developed with AI assistance as part of my learning process.
-
-[**↗ View live portfolio**](https://ambi-rajan-portfolio.vercel.app)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Swiggy Food Sales Analysis</h3>
+      <p>Excel dashboard exploring food sales performance, KPIs, time trends, food types, and geographic insights.</p>
+      <p><strong>Tools:</strong> Excel · Data Cleaning · Dashboarding</p>
+      <a href="https://github.com/thefavmaverick-coder/swiggy-food-sales-analysis"><img src="https://img.shields.io/badge/Explore%20Repository-A7F542?style=for-the-badge&logo=github&logoColor=111111" alt="Explore Swiggy project" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Sales & Orders Performance</h3>
+      <p>Interactive Excel dashboard for reviewing sales and order performance through summarized business metrics.</p>
+      <p><strong>Tools:</strong> Excel · KPIs · Data Visualization</p>
+      <a href="https://github.com/thefavmaverick-coder/Sales-Orders-Performance-Analysis"><img src="https://img.shields.io/badge/Explore%20Repository-A7F542?style=for-the-badge&logo=github&logoColor=111111" alt="Explore sales project" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Retail Sales Analysis with SQL</h3>
+      <p>PostgreSQL analysis of retail sales, customer behavior, product categories, and time-based trends.</p>
+      <p><strong>Tools:</strong> PostgreSQL · SQL Queries · Data Analysis</p>
+      <a href="https://github.com/thefavmaverick-coder/retail-sales-analysis-sql"><img src="https://img.shields.io/badge/Explore%20Repository-A7F542?style=for-the-badge&logo=github&logoColor=111111" alt="Explore SQL project" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 HR Employee Attrition Analysis</h3>
+      <p>Power BI dashboard examining employee attrition across departments, job roles, age groups, and satisfaction levels.</p>
+      <p><strong>Tools:</strong> Power BI · Data Visualization · HR Analytics</p>
+      <a href="https://github.com/thefavmaverick-coder/hr-employee-attrition-analysis"><img src="https://img.shields.io/badge/Explore%20Repository-A7F542?style=for-the-badge&logo=github&logoColor=111111" alt="Explore HR project" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Finance & Expense Analytics</h3>
+      <p>A personal finance web project focused on tracking income and expenses, budgets, savings goals, and spending patterns.</p>
+      <p><strong>Tools:</strong> TypeScript · Web Development · Data Visualization</p>
+      <a href="https://github.com/thefavmaverick-coder/The-Fav-Maverick-Finance-Expense-Analytics"><img src="https://img.shields.io/badge/Explore%20Repository-A7F542?style=for-the-badge&logo=github&logoColor=111111" alt="Explore finance project" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio & Profile Branding</h3>
+      <p>My personal portfolio and GitHub branding work, bringing projects, skills, and contact links together.</p>
+      <p><strong>Tools:</strong> HTML · CSS · JavaScript · SVG</p>
+      <a href="https://ambi-rajan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="View portfolio" /></a>
+      <a href="https://github.com/thefavmaverick-coder/the-fav-maverick-coder_profile_update"><img src="https://img.shields.io/badge/Profile%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile repository" /></a>
+    </td>
+  </tr>
 </table>
 
-## `04 / GITHUB ACTIVITY`
+<p align="center"><em>Each project is a learning and portfolio project. Explore its repository for the available files, documentation, and implementation details.</em></p>
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F542&icon_color=A7F542&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7F542&text_color=E6EDF3" alt="Most used languages"/>
+## 📌 What I'm Working On
 
-<img src="https://streak-stats.demolab.com?user=thefavmaverick-coder&hide_border=true&background=0D1117&ring=A7F542&fire=A7F542&currStreakLabel=A7F542&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
+- Improving practical SQL skills and query writing.
+- Developing clear, useful dashboards in Excel, Power BI, and Tableau.
+- Building web projects and documenting the development process.
+- Practising data storytelling and presenting findings clearly.
 
-</div>
+## 📊 GitHub Overview
 
-<sub>GitHub statistics and streak cards are provided by external services and may occasionally be unavailable or delayed.</sub>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F542&icon_color=A7F542&text_color=E6EDF3" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7F542&text_color=E6EDF3" alt="Most used languages" />
+</p>
 
-## `05 / CURRENT LEARNING`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thefavmaverick-coder&hide_border=true&background=0D1117&ring=A7F542&fire=A7F542&currStreakLabel=A7F542&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
+</p>
 
-- [ ] Strengthen SQL: joins, CTEs, window functions, and query optimisation
-- [ ] Improve Power BI modelling, DAX, and dashboard storytelling
-- [ ] Practise Python for data cleaning and exploratory analysis
-- [ ] Document projects with clear questions, methods, and findings
-- [ ] Expand the portfolio with end-to-end analytics projects
+<p align="center"><sub>Stats are provided by external services and may occasionally be unavailable or delayed.</sub></p>
 
-## `06 / LET'S CONNECT`
+---
 
-<div align="center">
+## 🤝 Connect With Me
 
-Have feedback, ideas, or an opportunity to discuss? Connect with me.
+<p>
+  <a href="https://ambi-rajan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ambi-rajan005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/thefavmaverick-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:thefavmaverick@gmail.com"><img src="https://img.shields.io/badge/Email-A7F542?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
+</p>
 
-<a href="https://ambi-rajan-portfolio.vercel.app">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/ambi-rajan005">LinkedIn</a> ·
-<a href="https://github.com/thefavmaverick-coder">GitHub</a> ·
-<a href="https://www.instagram.com/itzz.favm__dot_me/">Instagram</a>
-
-<br/>
-
-**BUILD · ANALYSE · LEARN · REPEAT**
-
-<sub>Dark interface · Neon-lime accent · The Fav' Maverick</sub>
-
-</div>
+<p align="center"><strong>Thanks for visiting — explore my repositories and follow my learning journey.</strong></p>
