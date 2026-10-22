@@ -7,7 +7,7 @@ PROFILE README SETUP
 -->
 
 <p align="center">
-  <img src="profile-banner.png" alt="The Fav' Maverick banner" width="100%" />
+  <img src="profile-banner .png" alt="The Fav' Maverick banner" width="100%" />
 </p>
 
 <p align="center">
