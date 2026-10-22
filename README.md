@@ -11,7 +11,7 @@ Commit both files. GitHub will display this README on your profile.
 
 <p align="center">
   <a href="https://ambi-rajan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
-  <a href="https://the-fav-maverick-finance-expense-an-eight.vercel.app"><img src="https://img.shields.io/badge/LIVE%20APP-Finance%20Tracker-111111?style=for-the-badge&logo=vercel&logoColor=A7F542" alt="Finance Tracker app" /></a>
+  <a href="https://the-fav-maverick-finance-expense.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20APP-Finance%20Tracker-111111?style=for-the-badge&logo=vercel&logoColor=A7F542" alt="Finance Tracker app" /></a>
   <a href="https://www.linkedin.com/in/ambi-rajan005/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:thefavmaverick@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A7F542?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
 </p>
@@ -88,7 +88,7 @@ Commit both files. GitHub will display this README on your profile.
     <td width="50%" valign="top">
       <h3>💸 Finance & Expense Tracker</h3>
       <a href="https://github.com/thefavmaverick-coder/The-Fav-Maverick-Finance-Expense-Analytics"><img src="https://img.shields.io/badge/REPOSITORY-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Finance tracker repository" /></a>
-      <a href="https://the-fav-maverick-finance-expense-an-eight.vercel.app"><img src="https://img.shields.io/badge/OPEN-Live%20App-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Open live finance tracker" /></a>
+      <a href="https://the-fav-maverick-finance-expense.vercel.app/"><img src="https://img.shields.io/badge/OPEN-Live%20App-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Open live finance tracker" /></a>
       <p>A finance tracking web application designed to organize income and expenses in a clean interface.</p>
       <sub>Tools: React · TypeScript · Supabase</sub>
     </td>
