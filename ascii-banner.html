@@ -1,0 +1,279 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ASCII Portrait Banner</title>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #030603;
+  color: #a7f542;
+  font-family: Consolas, monospace;
+  padding: 25px;
+  text-align: center;
+}
+
+h1 {
+  margin: 15px;
+  letter-spacing: 3px;
+  text-shadow: 0 0 15px #a7f542;
+}
+
+.controls {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+input, button {
+  background: #101b0d;
+  border: 1px solid #a7f542;
+  color: #c8ff65;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  background: #a7f542;
+  color: #030603;
+}
+
+.banner {
+  width: 100%;
+  max-width: 1500px;
+  margin: 25px auto;
+  border: 1px solid #a7f542;
+  box-shadow: 0 0 25px #5caa1744;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #020502;
+}
+</style>
+</head>
+
+<body>
+
+<h1>ASCII PORTRAIT GENERATOR</h1>
+<p>Transform your photograph into a digital ASCII portrait.</p>
+
+<div class="controls">
+  <input type="file" id="upload" accept="image/*">
+  <button onclick="generate()">Generate ASCII</button>
+  <button onclick="downloadBanner()">Download PNG</button>
+</div>
+
+<div class="banner">
+  <canvas id="banner" width="1500" height="500"></canvas>
+</div>
+
+<script>
+const canvas = document.getElementById("banner");
+const ctx = canvas.getContext("2d");
+
+const W = 1500;
+const H = 500;
+
+const chars = " .,:;irsXA253hMHGS#9B&@";
+
+let photo = new Image();
+let ready = false;
+
+function drawBackground() {
+  ctx.fillStyle = "#020502";
+  ctx.fillRect(0, 0, W, H);
+
+  // Green digital matrix background
+  ctx.font = "11px monospace";
+  ctx.fillStyle = "#315c12";
+
+  for (let y = 15; y < H; y += 22) {
+    for (let x = 15; x < W; x += 25) {
+      if (Math.random() > 0.45) {
+        ctx.fillText(
+          Math.random() > 0.5 ? "0" : "1",
+          x, y
+        );
+      }
+    }
+  }
+
+  // Neon green frame
+  ctx.strokeStyle = "#a7f542";
+  ctx.lineWidth = 2;
+  ctx.shadowColor = "#a7f542";
+  ctx.shadowBlur = 15;
+  ctx.strokeRect(8, 8, W - 16, H - 16);
+  ctx.shadowBlur = 0;
+}
+
+function generate() {
+  if (!ready) {
+    alert("Upload your portrait first!");
+    return;
+  }
+
+  drawBackground();
+
+  const temp = document.createElement("canvas");
+  const tctx = temp.getContext("2d");
+
+  const imgW = 390;
+  const imgH = 460;
+
+  temp.width = imgW;
+  temp.height = imgH;
+
+  // Fit the portrait into the ASCII region
+  const scale = Math.max(
+    imgW / photo.width,
+    imgH / photo.height
+  );
+
+  const dw = photo.width * scale;
+  const dh = photo.height * scale;
+
+  tctx.drawImage(
+    photo,
+    (imgW - dw) / 2,
+    (imgH - dh) / 2,
+    dw,
+    dh
+  );
+
+  const pixels = tctx.getImageData(
+    0, 0, imgW, imgH
+  ).data;
+
+  // Character-based portrait
+  const cellW = 6;
+  const cellH = 9;
+
+  const startX = 555;
+  const startY = 20;
+
+  ctx.font = "10px monospace";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+
+  for (let y = 0; y < imgH; y += 3) {
+    for (let x = 0; x < imgW; x += 2) {
+
+      const i = (y * imgW + x) * 4;
+
+      const r = pixels[i];
+      const g = pixels[i + 1];
+      const b = pixels[i + 2];
+
+      const brightness =
+        0.299 * r + 0.587 * g + 0.114 * b;
+
+      const index = Math.floor(
+        (brightness / 255) * (chars.length - 1)
+      );
+
+      const character = chars[index];
+
+      // Preserve facial detail through brightness mapping
+      const intensity = 0.35 + brightness / 255 * 0.65;
+
+      ctx.fillStyle =
+        `rgba(${Math.round(100 * intensity)},` +
+        `${Math.round(255 * intensity)},` +
+        `${Math.round(20 * intensity)},1)`;
+
+      ctx.fillText(
+        character,
+        startX + x * cellW / 2,
+        startY + y * cellH / 3
+      );
+    }
+  }
+
+  // Digital neon frame around portrait
+  ctx.strokeStyle = "#a7f542";
+  ctx.lineWidth = 2;
+  ctx.shadowColor = "#a7f542";
+  ctx.shadowBlur = 20;
+  ctx.strokeRect(startX - 12, 12, 410, 470);
+  ctx.shadowBlur = 0;
+
+  // Minimal digital accents
+  ctx.fillStyle = "#a7f542";
+  ctx.font = "15px monospace";
+  ctx.fillText("010101 // DIGITAL PORTRAIT", 240, 70);
+  ctx.fillText("ASCII // NEON MATRIX", 240, 95);
+
+  // Animated scanline appearance
+  ctx.fillStyle = "rgba(167,245,66,0.12)";
+  ctx.fillRect(0, 240, W, 2);
+
+  // Left-side code decoration
+  ctx.textAlign = "left";
+  ctx.font = "13px monospace";
+  ctx.fillStyle = "#70b82d";
+
+  for (let i = 0; i < 13; i++) {
+    ctx.fillText(
+      "0101 1010 0011 1100",
+      80,
+      170 + i * 22
+    );
+  }
+
+  ctx.fillStyle = "#d4ff00";
+  ctx.font = "bold 18px monospace";
+  ctx.fillText("THE FAV' MAVERICK", 80, 440);
+
+  ctx.font = "12px monospace";
+  ctx.fillText("DIGITAL IDENTITY // 2026", 80, 465);
+}
+
+document.getElementById("upload").addEventListener(
+  "change", function(event) {
+    const file = event.target.files[0];
+
+    if (!file) return;
+
+    const url = URL.createObjectURL(file);
+
+    photo.onload = function() {
+      ready = true;
+      generate();
+      URL.revokeObjectURL(url);
+    };
+
+    photo.src = url;
+  }
+);
+
+function downloadBanner() {
+  const link = document.createElement("a");
+  link.download = "fav-maverick-ascii-banner.png";
+  link.href = canvas.toDataURL("image/png");
+  link.click();
+}
+
+drawBackground();
+</script>
+
+</body>
+</html>
