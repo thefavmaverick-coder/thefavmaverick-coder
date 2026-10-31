@@ -15,15 +15,17 @@ Keep profile-banner.png in the repository root.
   <span style="color:#A7F542;">AMBI RAJAN</span>
 </h1>
 
-<h3 align="center">Aspiring Data Analyst · Data Visualization ·Analytics Project builder · Web Project developer</h3>
+<h3 align="center">Aspiring Data Analyst · Data Visualization · Analytics Project Builder · Web Project Developer</h3>
 
 <p align="center">
   <a href="https://ambi-rajan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-A7F542?style=for-the-badge&labelColor=050805&logo=vercel&logoColor=A7F542" alt="Portfolio">
   </a>
+
   <a href="https://www.linkedin.com/in/ambi-rajan005/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-A7F542?style=for-the-badge&labelColor=050805&logo=linkedin&logoColor=A7F542" alt="LinkedIn">
   </a>
+  
   <a href="mailto:thefavmaverick@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-A7F542?style=for-the-badge&labelColor=050805&logo=gmail&logoColor=A7F542" alt="Email">
   </a>
@@ -57,7 +59,7 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 <p align="center"><strong>DATA ANALYTICS & VISUALIZATION</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres" height="48" alt="Python, R, MySQL and PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=python,pandas,r,mysql,postgres" height="48" alt="Python, Pandas, R, MySQL and PostgreSQL">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Microsoft Excel">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" height="28" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau">
@@ -91,7 +93,7 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
         <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-EXCEL%20DASHBOARD-A7F542?style=for-the-badge&labelColor=050805&logo=microsoftexcel&logoColor=A7F542" alt="Open Swiggy project">
       </a>
       <p>Analyzes food sales and performance through an Excel dashboard, with business-focused KPIs and views across restaurants, categories, cities, and states.</p>
-      <p><b>Tools:</b> Excel · Data Analysis · Dashboard Design</p>
+      <p><b>Tools:</b> Excel · Data Analysis · Dashboard Design and Visualization</p>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Sales Orders Performance Analysis</h3>
@@ -99,7 +101,7 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
         <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-SALES%20ANALYSIS-A7F542?style=for-the-badge&labelColor=050805&logo=tableau&logoColor=A7F542" alt="Open Sales Orders project">
       </a>
       <p>Explores sales and order performance and presents findings through a business-intelligence and visualization workflow.</p>
-      <p><b>Tools:</b> Data Analysis · Tableau / Visualization</p>
+      <p><b>Tools:</b> Excel · Data Analysis and Visualization</p>
     </td>
   </tr>
   <tr>
@@ -138,7 +140,7 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
         <img src="https://img.shields.io/badge/VIEW%20PROJECT-PORTFOLIO-A7F542?style=for-the-badge&labelColor=050805&logo=vercel&logoColor=A7F542" alt="View Studio project">
       </a>
       <p>An e-commerce website project concept for wall posters and creative products, focused on product categories, responsive layouts, and the shopping experience.</p>
-      <p><b>Tools:</b> HTML · CSS · JavaScript · AI-assisted development</p>
+      <p><b>Tools:</b> HTML · CSS · AI-assisted development</p>
     </td>
   </tr>
   <tr>
@@ -181,29 +183,17 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 
 ---
 
-
-<h2 align="center">🟢 GITHUB ACTIVITY</h2>
+## 🟢 EXPLORE MY WORK
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&bg_color=050805&title_color=A7F542&icon_color=A7F542&text_color=E8F5E0"
-    height="165"
-    alt="GitHub profile statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&bg_color=050805&title_color=A7F542&text_color=E8F5E0"
-    height="165"
-    alt="Most used languages"
-  />
+  <a href="https://github.com/thefavmaverick-coder?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-A7F542?style=for-the-badge&labelColor=050805&logo=github&logoColor=A7F542" alt="Explore all repositories">
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=thefavmaverick-coder&hide_border=true&background=050805&ring=A7F542&fire=D4FF00&currStreakLabel=A7F542&sideLabels=E8F5E0&currStreakNum=E8F5E0&sideNums=E8F5E0&dates=9AA49A"
-    alt="GitHub contribution streak"
-  />
+  <strong>Learn • Build • Share • Improve</strong>
 </p>
-
 
 ---
 
