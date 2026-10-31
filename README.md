@@ -5,7 +5,7 @@ Keep this file and ambi-full-ascii-face.gif in the repository root.
 -->
 
 <p align="center">
-  <img src="ambi-full-ascii-face.gif" width="100%" alt="Ambi Rajan animated ASCII portrait banner" />
+  <img src="profile-banner .png" width="100%" alt="Ambi Rajan animated ASCII portrait banner" />
 </p>
 
 <h1 align="center">AMBI RAJAN</h1>
@@ -66,7 +66,6 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 
 <p align="center"><b>DESIGN & CONTENT TOOLS</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva" height="48" alt="Figma and Canva" />
 </p>
 
 <p align="center">
