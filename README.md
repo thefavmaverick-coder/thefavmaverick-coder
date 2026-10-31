@@ -181,22 +181,29 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 
 ---
 
-## 🟢 GITHUB ACTIVITY
+
+<h2 align="center">🟢 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&bg_color=050805&title_color=A7F542&icon_color=A7F542&text_color=E8F5E0&rank_icon=github" alt="GitHub profile statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&bg_color=050805&title_color=A7F542&text_color=E8F5E0" alt="Most used languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&bg_color=050805&title_color=A7F542&icon_color=A7F542&text_color=E8F5E0"
+    height="165"
+    alt="GitHub profile statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&bg_color=050805&title_color=A7F542&text_color=E8F5E0"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thefavmaverick-coder&hide_border=true&background=050805&ring=A7F542&fire=D4FF00&currStreakLabel=A7F542&sideLabels=E8F5E0&currStreakNum=E8F5E0&sideNums=E8F5E0&dates=9AA49A" alt="GitHub contribution streak">
+  <img
+    src="https://streak-stats.demolab.com?user=thefavmaverick-coder&hide_border=true&background=050805&ring=A7F542&fire=D4FF00&currStreakLabel=A7F542&sideLabels=E8F5E0&currStreakNum=E8F5E0&sideNums=E8F5E0&dates=9AA49A"
+    alt="GitHub contribution streak"
+  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/thefavmaverick-coder?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-A7F542?style=for-the-badge&labelColor=050805&logo=github&logoColor=A7F542" alt="Explore all repositories">
-  </a>
-</p>
 
 ---
 
