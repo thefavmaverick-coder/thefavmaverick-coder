@@ -56,24 +56,18 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 
 ## 🟢 TOOLS & TECHNOLOGIES
 
-
 <h3 align="center">DATA ANALYTICS &amp; VISUALIZATION</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres"
-       height="50" alt="Python, R, MySQL and PostgreSQL">
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-       height="28" alt="Pandas">
-
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-       height="28" alt="Microsoft Excel">
-
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-       height="28" alt="Power BI">
-
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-       height="28" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres" height="48" alt="Python, R, MySQL and PostgreSQL">
+  &nbsp;
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas">
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel">
+  &nbsp;
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" height="28" alt="Power BI">
+  &nbsp;
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau">
 </p>
 
 <h3 align="center">DEVELOPMENT &amp; VERSION CONTROL</h3>
