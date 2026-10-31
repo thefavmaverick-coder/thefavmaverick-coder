@@ -3,9 +3,10 @@ PROFILE README
 Repository: https://github.com/thefavmaverick-coder
 Keep this file and ambi-full-ascii-face.gif in the repository root.
 -->
-
 <p align="center">
-  <img src="profile-banner .png" width="100%" alt="Ambi Rajan animated ASCII portrait banner" />
+  <img src="ambi-rajan-github-banner.gif"
+       width="100%"
+       alt="Ambi Rajan - The Fav' Maverick">
 </p>
 
 <h1 align="center">AMBI RAJAN</h1>
