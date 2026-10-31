@@ -13,7 +13,7 @@ Keep profile-banner.png in the repository root.
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/AMBI%20RAJAN-A7F542?style=for-the-badge&labelColor=050805"
+    src="Color=050805"
     alt="AMBI RAJAN"
   />
 </p>
