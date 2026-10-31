@@ -56,33 +56,35 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 
 ## 🟢 TOOLS & TECHNOLOGIES
 
-<p align="center"><strong>DATA ANALYTICS & VISUALIZATION</strong></p>
+
+<h3 align="center">DATA ANALYTICS &amp; VISUALIZATION</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,r,mysql,postgres"
-       height="50"
-       alt="Python, Pandas, R, MySQL and PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres"
+       height="50" alt="Python, R, MySQL and PostgreSQL">
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+       height="28" alt="Pandas">
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+       height="28" alt="Microsoft Excel">
+
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+       height="28" alt="Power BI">
+
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+       height="28" alt="Tableau">
 </p>
+
+<h3 align="center">DEVELOPMENT &amp; VERSION CONTROL</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346"
-       height="45" alt="Microsoft Excel">
-
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811"
-       height="45" alt="Power BI">
-
-  <img src="https://cdn.simpleicons.org/tableau/E97627"
-       height="45" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,git,github,vscode,supabase"
+       height="48" alt="Development technologies">
 </p>
 
+<h3 align="center">DESIGN &amp; CONTENT TOOLS</h3>
 
-<p align="center"><strong>DEVELOPMENT & VERSION CONTROL</strong></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,git,github,vscode,supabase" height="48" alt="HTML, CSS, JavaScript, React, TypeScript, Vite, Git, GitHub, VS Code and Supabase">
-</p>
-
-<p align="center"><strong>DESIGN & CONTENT TOOLS</strong></p>
 
 <p align="center">
   <sub>Tools shown reflect the technologies and platforms used or explored across my projects.</sub>
