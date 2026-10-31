@@ -11,9 +11,12 @@ Keep profile-banner.png in the repository root.
        alt="Ambi Rajan - The Fav' Maverick">
 </p>
 
-<h1 align="center">
-  <span style="color:A7F542;">AMBI RAJAN</span>
-</h1>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/AMBI%20RAJAN-A7F542?style=for-the-badge&labelColor=050805"
+    alt="AMBI RAJAN"
+  />
+</p>
 
 <h3 align="center">Aspiring Data Analyst · Data Visualization · Analytics Project Builder · Web Project Developer</h3>
 
