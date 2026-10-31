@@ -12,7 +12,7 @@ Keep profile-banner.png in the repository root.
 </p>
 
 <h1 align="center">
-  <span style="color:#A7F542;">AMBI RAJAN</span>
+  <span style="color:A7F542;">AMBI RAJAN</span>
 </h1>
 
 <h3 align="center">Aspiring Data Analyst · Data Visualization · Analytics Project Builder · Web Project Developer</h3>
