@@ -4,7 +4,7 @@ Repository: https://github.com/thefavmaverick-coder
 Keep this file and ambi-full-ascii-face.gif in the repository root.
 -->
 <p align="center">
-  <img src="ambi-rajan-github-banner.gif"
+  <img src="Neon Tech Profile Banner.png"
        width="100%"
        alt="Ambi Rajan - The Fav' Maverick">
 </p>
