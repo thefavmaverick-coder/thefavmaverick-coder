@@ -59,11 +59,22 @@ Hi, I'm **Ambi Rajan**. I enjoy exploring data, building dashboards, and creatin
 <p align="center"><strong>DATA ANALYTICS & VISUALIZATION</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,r,mysql,postgres" height="48" alt="Python, Pandas, R, MySQL and PostgreSQL">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" height="28" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=python,pandas,r,mysql,postgres"
+       height="50"
+       alt="Python, Pandas, R, MySQL and PostgreSQL">
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346"
+       height="45" alt="Microsoft Excel">
+
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811"
+       height="45" alt="Power BI">
+
+  <img src="https://cdn.simpleicons.org/tableau/E97627"
+       height="45" alt="Tableau">
+</p>
+
 
 <p align="center"><strong>DEVELOPMENT & VERSION CONTROL</strong></p>
 
