@@ -13,6 +13,9 @@ Commit both files. GitHub will display this README on your profile.
   />
 </p>
 
+<p align="center">
+  <img src="profile-banner .png" alt="The Fav' Maverick — Ambi Rajan" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://ambi-rajan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-A7F542?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
